@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Elmemoing
-- 👀 I’m interested in program
-- 🌱 I’m currently learning c++, python
-- 💞️ I’m looking to collaborate on many things
+👋 Hi, I’m @Elmemoing
+I’m interested in program
+
+
 
 <!---
 Elmemoing/Elmemoing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
