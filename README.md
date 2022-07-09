@@ -1,10 +1,4 @@
 <h1 align="center">🙋‍♂️ Hi, I'm Guillermo Z. Arguello Cordobe</h1>
-
-# About me
-- I like to learn to program 
-- I like team work! 
-- 💬 Fun fact: I can talk 24/7 about football soccer.
-
 # Learning!! 💻
 - <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 - <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
