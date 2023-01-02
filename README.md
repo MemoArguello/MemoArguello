@@ -1,4 +1,4 @@
-<h1 align="center">Guillermo Z. Arguello Cordobe</h1>
+<h1 align="center">Guillermo Z. Arguello Cordobés</h1>
 
 ## ⚡ 🖥️ Languages (still learning)
 
