@@ -10,3 +10,15 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub](https://camo.githubusercontent.com/5897300b537aa88011dc81c4b73e61e9bb26b63540c84e7ddd5cdcec68ff94aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d504850)
+
+<p align="center">
+  <a href="https://github.com/MemoArguello">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MemoArguello&theme=github" width="500">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemoArguello&langs_count=6&layout=compact" width="400" />
+  </a>
+</p>
