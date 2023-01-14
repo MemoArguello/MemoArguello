@@ -16,8 +16,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MemoArguello&theme=default" width="700">
   </a>
 </p>
-
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MemoArguello&theme=default">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MemoArguello&theme=default">
 </p>
-
