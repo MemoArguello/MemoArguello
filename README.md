@@ -36,11 +36,7 @@
 </p>
 
 <h2>🚀 Último Proyecto: <a href="https://upsanignacio.com" target="_blank">upsanignacio.edu.py</a></h2>
-  - Laravel
-  - MySQL
-  - HTML
-  - CSS 
-  - JavaScript
+<p align="center">Sitio web educativo desarrollado para la Universidad San Ignacio. Hecho con Laravel, MySQL, HTML, CSS y JavaScript para el diseño y funcionalidad.</p>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MemoArguello&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
