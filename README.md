@@ -23,9 +23,9 @@
 </p>
 
 
-<!--<h2 align="center">🚀 Último Proyecto: <a href="https://upsanignacio.com" target="_blank">upsanignacio.edu.py</a></h2>
+<h2 align="center">🚀 Último Proyecto: <a href="https://upsanignacio.com" target="_blank">upsanignacio.edu.py</a></h2>
 <p align="center">Sitio web educativo desarrollado para la Universidad Católica Unidad Pedagogica San Ignacio Guazú misiones. Hecho con Laravel, MySQL, HTML, CSS y JavaScript para el diseño y funcionalidad.</p>
--->
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MemoArguello&theme=dark&hide_border=false)<br/>
 
