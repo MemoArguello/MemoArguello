@@ -27,9 +27,8 @@
 <p align="center">Sitio web educativo desarrollado para la Universidad Católica Unidad Pedagogica San Ignacio Guazú misiones. Hecho con Laravel, MySQL, HTML, CSS y JavaScript para el diseño y funcionalidad.</p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MemoArguello&theme=dark&hide_border=false)<br/>
-
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=MemoArguello&theme=dark&hide_border=false)
+![](https://api.githubtrends.io/user/svg/MemoArguello/langs?time_range=one_year&compact=True&theme=dark)<br/>
 <!--## ▶️Dato curioso sobre mi
 <P>Tengo un Canal de Fútbol en Youtube: <a href="https://www.youtube.com/@memo_zf" target="_blank">Memo_zf</a></P>
 <p>
